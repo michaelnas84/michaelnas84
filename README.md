@@ -41,3 +41,10 @@ I prepared a local reference with two HTTP services I built, running in separate
 - Persistence after restart and recovery from simulated failures before and after a write.
 
 The example was tested locally. It demonstrates these behaviors between the two services; external connectors and production deployment require validation in the authorized project environment.
+
+
+## Technical demonstrations / Demonstrações técnicas
+
+[Portfolio Lab](https://github.com/michaelnas84/portfolio-lab): independent examples of HTTP delivery, CSV validation and approval workflows, prepared with AI assistance and synthetic data. All **39 local checks** passed (14 HTTP, 10 CSV and 15 workflow); these are demonstrations, not customer case studies or production approvals.
+
+Demonstrações independentes de integração HTTP, conferência de CSV e fluxo de aprovação, com assistência de IA e dados fictícios. **39 verificações locais aprovadas**, sem atribuir resultados comerciais ou homologação de APIs externas.
