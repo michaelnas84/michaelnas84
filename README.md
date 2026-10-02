@@ -149,3 +149,11 @@ The example was tested locally. It demonstrates these behaviors between the two 
 [Portfolio Lab](https://github.com/michaelnas84/portfolio-lab): independent examples of HTTP delivery, CSV validation and approval workflows, prepared with AI assistance and synthetic data. All **39 local checks** passed (14 HTTP, 10 CSV and 15 workflow); these are demonstrations, not customer case studies or production approvals.
 
 Demonstrações independentes de integração HTTP, conferência de CSV e fluxo de aprovação, com assistência de IA e dados fictícios. **39 verificações locais aprovadas**, sem atribuir resultados comerciais ou homologação de APIs externas.
+
+## Laravel + Vue CMS demonstration / Demonstração CMS full stack
+
+[Mesa Editorial — code and setup](https://github.com/michaelnas84/portfolio-lab/tree/main/demos/editorial-cms): an independent Laravel 12/Vue 3/SQLite application for draft CRUD, explicit publication, published-page reading, version conflicts and a transactional audit trail. New code, synthetic content and AI assistance. **20 PHPUnit tests (88 assertions)** and **13 real local HTTP checks** passed; the desktop create/publish/read scenario was checked manually, separately. Loopback-only fictional editor, plain-text content and no authenticated actor, production/load or external API approval.
+
+Demonstração independente Laravel/Vue com dados fictícios e assistência de IA: rascunhos, publicação explícita, persistência SQLite e trilha de auditoria. **20 testes PHPUnit/88 asserções e 13 verificações HTTP locais**, com cenário de criação/publicação/leitura conferido separadamente no navegador. Execução local, ator fictício sem autenticação e conteúdo em texto simples.
+
+![Independent Laravel and Vue editorial CMS](https://raw.githubusercontent.com/michaelnas84/portfolio-lab/main/assets/editorial-cms-laravel-vue.png)
