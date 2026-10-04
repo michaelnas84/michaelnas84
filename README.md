@@ -18,9 +18,9 @@ Em dados, trabalho com consultas e modelos relacionais, importação/exportaçã
 
 Atuei também com liderança técnica, arquitetura, revisão de código e acompanhamento de entregas. Cada trabalho começa pela definição do problema, entradas, regras, volume, resultado e critérios de aceite. A entrega combina implementação, testes acordados e documentação; implantação, infraestrutura, consumo de terceiros e manutenção têm escopo próprio.
 
-Trabalho como freelancer desde janeiro de 2016. Para esta atuação adicional, tenho disponibilidade remota e parcial de até 3–4 horas por dia, em operações de empresas fora do mercado de eventos. Meu inglês é intermediário. As demonstrações independentes do portfólio usam dados fictícios e assistência de IA; seus testes são locais, e integrações de clientes são validadas no ambiente autorizado.
+Trabalho como freelancer desde janeiro de 2016. Tenho interesse em projetos remotos e contratos em tempo integral, em operações de empresas fora do mercado de eventos. Meu inglês é intermediário. As demonstrações independentes do portfólio usam dados fictícios e assistência de IA; seus testes são locais, e integrações de clientes são validadas no ambiente autorizado.
 
-**Base:** São Paulo, SP, Brasil · UTC-3. Português nativo; inglês intermediário. Freelancer desde janeiro de 2016; disponibilidade para projetos adicionais remotos e parciais de até 3–4 horas por dia.
+**Base:** São Paulo, SP, Brasil · UTC-3. Português nativo; inglês intermediário. Freelancer desde janeiro de 2016; interesse em projetos remotos e contratos em tempo integral fora do mercado de eventos.
 
 ### Competências
 
@@ -87,9 +87,9 @@ For data work, I use relational queries and models, CSV/XLSX imports and exports
 
 I have also worked on technical leadership, architecture, code review and delivery coordination. Each assignment begins with the problem, inputs, rules, volume, expected result and acceptance criteria. Delivery combines implementation, agreed tests and documentation; deployment, infrastructure, third-party usage and maintenance have separate scope.
 
-I have worked as a freelancer since January 2016. For this additional work, I am available remotely and part-time for up to 3–4 hours per day, serving business operations outside the events market. My English is intermediate. My independent portfolio demonstrations use synthetic data and AI assistance; their checks are local, and customer integrations are validated in the authorized environment.
+I have worked as a freelancer since January 2016. I am open to remote projects and full-time contracts serving business operations outside the events market. My English is intermediate. My independent portfolio demonstrations use synthetic data and AI assistance; their checks are local, and customer integrations are validated in the authorized environment.
 
-**Based in:** São Paulo, SP, Brazil · UTC-3. Native Portuguese; intermediate English. Freelance since January 2016; available for additional remote, part-time projects for up to 3–4 hours per day.
+**Based in:** São Paulo, SP, Brazil · UTC-3. Native Portuguese; intermediate English. Freelance since January 2016; open to remote projects and full-time contracts outside the events market.
 
 ### Skills
 
