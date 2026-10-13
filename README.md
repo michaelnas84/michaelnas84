@@ -1,26 +1,28 @@
-# Michael do Nascimento
+<a href="https://mike-labs-portfolio.famousdune5.chatgpt.site"><img src="https://mike-labs-portfolio.famousdune5.chatgpt.site/assets/mark.svg" alt="Mike Labs" width="72"></a>
 
-Desenvolvedor full stack — PHP/Laravel, Vue/React, ERP/SaaS, CMS, APIs e dados.
+# Mike Labs — Software House
 
-Full-stack developer — PHP/Laravel, Vue/React, ERP/SaaS, CMS, APIs and data.
+Sistemas de gestão, sites, portais, CMS, APIs e automação sob a liderança técnica de Michael do Nascimento.
 
-[Português](#português) · [English](#english) · [Portfolio Lab](https://github.com/michaelnas84/portfolio-lab)
+Business systems, websites, portals, CMS, APIs and automation under Michael do Nascimento's technical leadership.
+
+[Portfólio de projetos](<https://mike-labs-portfolio.famousdune5.chatgpt.site>) · [Português](#português) · [English](#english) · [Demonstrações independentes](https://github.com/michaelnas84/portfolio-lab)
 
 ## Português
 
-Sou desenvolvedor full stack e trabalho com PHP/Laravel, Vue, React, JavaScript/TypeScript e bancos relacionais. Minha experiência inclui desenvolvimento e manutenção de aplicações de gestão, produtos multi-tenant, APIs, CMS multisite, interfaces administrativas e rotinas de dados.
+A Mike Labs é uma software house sob a liderança técnica de Michael, desenvolvedor com oito anos de atuação em PHP e mais de seis com Laravel e Vue.js. O foco é transformar regras de negócio em sistemas de gestão, sites, portais, APIs e automações úteis no dia a dia.
 
-No backend, atuo com regras de negócio, autenticação, permissões, isolamento por empresa/site, pedidos, estoque, financeiro operacional e fluxos de aprovação. Desenvolvo e ajusto APIs HTTP/REST, validação e mapeamento de dados, integrações, filas e processamento em segundo plano, conforme os recursos e acessos disponíveis no projeto.
+Trabalhamos com PHP/Laravel, Vue/React, JavaScript/TypeScript, Node.js, bancos relacionais e integrações HTTP. As referências incluem autenticação e permissões, CRM, estoque, financeiro, agendamento, CMS multisite, publicação editorial, relatórios e filas de processamento.
 
-No frontend, construo formulários, filtros, dashboards e interfaces responsivas com Vue/React, TypeScript, Inertia, HTML/CSS e Tailwind. Também tenho experiência com edição/publicação de conteúdo, revisões editoriais, imagens responsivas e SEO em CMS.
+IA avançada apoia implementação, análise e automação, com revisão de código, testes e critérios de aceite. Michael conduz tecnicamente o trabalho; parceiros são mobilizados sob demanda conforme o escopo.
 
-Em dados, trabalho com consultas e modelos relacionais, importação/exportação CSV/XLSX, extração por entidade, conferência, deduplicação e relatórios. Minha experiência profissional inclui manutenção de sistemas em PHP puro, JavaScript e Oracle SQL, além dos projetos com Laravel, PostgreSQL, MySQL e SQLite.
+A trajetória de Michael inclui atuação na evolução e manutenção do Miller ERP, como contratado da Openness Technology; o AchouCarro, projeto próprio; e software institucional para FINSP/Grupo A. Projetos de marcas presentes no portfólio foram realizados via contratação da Phygital Solutions, com participação técnica de Michael.
 
-Atuei também com liderança técnica, arquitetura, revisão de código e acompanhamento de entregas. Cada trabalho começa pela definição do problema, entradas, regras, volume, resultado e critérios de aceite. A entrega combina implementação, testes acordados e documentação; implantação, infraestrutura, consumo de terceiros e manutenção têm escopo próprio.
+O trabalho começa pelo entendimento do problema, dos dados e das integrações. Entregas, dependências, implantação e suporte são definidos para cada projeto.
 
-Trabalho como freelancer desde janeiro de 2016. Tenho interesse em projetos remotos e contratos em tempo integral, em operações de empresas fora do mercado de eventos. Meu inglês é intermediário. As demonstrações independentes do portfólio usam dados fictícios e assistência de IA; seus testes são locais, e integrações de clientes são validadas no ambiente autorizado.
+**Responsável técnico:** Michael do Nascimento. Backend TypeScript/Node.js autônomo; bancos relacionais e Redis; revisão de código e testes. A trajetória e as demonstrações abaixo pertencem a Michael e são identificadas em seu contexto.
 
-**Base:** São Paulo, SP, Brasil · UTC-3. Português nativo; inglês intermediário. Freelancer desde janeiro de 2016; interesse em projetos remotos e contratos em tempo integral fora do mercado de eventos.
+**Sites institucionais públicos:** [FINSP](https://finsp.com.br/) · [Grupo A Educacional](https://grupoaeducacional.com.br/). As seis páginas apresentadas no portfólio foram registradas em produção; editor local e integrações administrativas têm validação separada.
 
 ### Competências
 
@@ -38,12 +40,12 @@ Trabalho como freelancer desde janeiro de 2016. Tenho interesse em projetos remo
 **Openness Technology — Desenvolvedor Full Stack**  
 2023-01 → Atual · Contrato PJ
 
-Desenvolvimento e manutenção de produto ERP/SaaS multi-tenant, módulos de negócio e API REST versionada. Atuação com autenticação, isolamento por tenant, filas/jobs, Redis/Horizon, WebSocket, componentes Vue.js e testes PHPUnit.
+Desenvolvimento e manutenção do Miller ERP, produto preexistente da Openness Technology, com módulos de negócio e API REST versionada. Atuação com autenticação, isolamento por tenant, filas/jobs, Redis/Horizon, WebSocket, componentes Vue.js e testes PHPUnit.
 
 **Phygital Lab / Phygital Solutions — Desenvolvedor Full Stack**  
 2023-01 → Atual · Freelance
 
-Desenvolvimento full stack de aplicações web e integrações, incluindo requisitos, arquitetura, backend/frontend, fluxos de dados, sincronização, implantação e suporte técnico. Atuação com PHP/Laravel, Node.js, JavaScript/TypeScript, Vue, React e bancos relacionais.
+Desenvolvimento full stack de aplicações web e integrações, incluindo requisitos, arquitetura, backend/frontend, fluxos de dados, sincronização, implantação e suporte técnico. Atuação com PHP/Laravel, Node.js, JavaScript/TypeScript, Vue, React e bancos relacionais. Projetos realizados via contratação da Phygital Solutions, com participação técnica de Michael.
 
 **FLOWIH / Flow Innovation Hub — Tech Lead / Desenvolvedor Full Stack**  
 2023-01 → 2023-12 · Contrato PJ
@@ -77,19 +79,15 @@ O ensaio foi executado localmente. Ele demonstra esses comportamentos entre os d
 
 ## English
 
-I am a full-stack developer working with PHP/Laravel, Vue, React, JavaScript/TypeScript and relational databases. My experience includes developing and maintaining management applications, multi-tenant products, APIs, multi-site CMS, admin interfaces and data workflows.
+Mike Labs is a software house led by Michael, a developer with eight years of PHP experience and more than six years with Laravel and Vue.js. We build and improve business systems, websites, portals, APIs and automation.
 
-On the backend, I work with business rules, authentication, permissions, company/site isolation, orders, inventory, operational finance and approval workflows. I develop and adjust HTTP/REST APIs, validation and field mapping, integrations, queues and background processing, according to the project's available features and access.
+Our technical references include PHP/Laravel, Vue/React, JavaScript/TypeScript, Node.js, relational databases, Redis, access control, CMS workflows, reporting and background processing. Advanced AI supports implementation, analysis and automation, alongside code review and testing. Michael leads the technical work, with project-based partners brought in when needed.
 
-On the frontend, I build forms, filters, dashboards and responsive interfaces using Vue/React, TypeScript, Inertia, HTML/CSS and Tailwind. I also have experience with content editing/publishing, editorial revisions, responsive images and SEO in CMS applications.
+Michael’s experience includes contracted development and maintenance of the preexisting Miller ERP at Openness Technology, his own AchouCarro project, and institutional software for FINSP/Grupo A. The branded projects in the portfolio were carried out through engagement by Phygital Solutions, with Michael’s technical participation. Each reference identifies its origin and the scope of the screenshots.
 
-For data work, I use relational queries and models, CSV/XLSX imports and exports, entity-based extraction, validation, deduplication and reports. My professional experience includes maintaining systems with plain PHP, JavaScript and Oracle SQL, alongside projects using Laravel, PostgreSQL, MySQL and SQLite.
+**Technical lead:** Michael do Nascimento. Autonomous TypeScript/Node.js backend development, relational databases and Redis, code review and testing. The career history and independent demonstrations below describe Michael’s own professional context.
 
-I have also worked on technical leadership, architecture, code review and delivery coordination. Each assignment begins with the problem, inputs, rules, volume, expected result and acceptance criteria. Delivery combines implementation, agreed tests and documentation; deployment, infrastructure, third-party usage and maintenance have separate scope.
-
-I have worked as a freelancer since January 2016. I am open to remote projects and full-time contracts serving business operations outside the events market. My English is intermediate. My independent portfolio demonstrations use synthetic data and AI assistance; their checks are local, and customer integrations are validated in the authorized environment.
-
-**Based in:** São Paulo, SP, Brazil · UTC-3. Native Portuguese; intermediate English. Freelance since January 2016; open to remote projects and full-time contracts outside the events market.
+**Public institutional sites:** [FINSP](https://finsp.com.br/) · [Grupo A Educacional](https://grupoaeducacional.com.br/). Public-site captures are separate from validation of administrative interfaces and integrations.
 
 ### Skills
 
@@ -107,12 +105,12 @@ I have worked as a freelancer since January 2016. I am open to remote projects a
 **Openness Technology — Full Stack Developer**  
 2023-01 → Present · Independent contractor (PJ)
 
-Development and maintenance of a multi-tenant ERP/SaaS product, business modules and a versioned REST API. Work includes authentication, tenant isolation, queues/jobs, Redis/Horizon, WebSocket, Vue.js components and PHPUnit tests.
+Contracted development and maintenance of the preexisting Miller ERP at Openness Technology, with business modules and a versioned REST API. Work includes authentication, tenant isolation, queues/jobs, Redis/Horizon, WebSocket, Vue.js components and PHPUnit tests.
 
 **Phygital Lab / Phygital Solutions — Full Stack Developer**  
 2023-01 → Present · Freelance
 
-Full-stack web application and integration work, including requirements, architecture, backend/frontend, data flows, synchronization, deployment and technical support. Work with PHP/Laravel, Node.js, JavaScript/TypeScript, Vue, React and relational databases.
+Full-stack web application and integration work, including requirements, architecture, backend/frontend, data flows, synchronization, deployment and technical support. Work with PHP/Laravel, Node.js, JavaScript/TypeScript, Vue, React and relational databases. Projects were carried out through engagement by Phygital Solutions, with Michael’s technical participation.
 
 **FLOWIH / Flow Innovation Hub — Tech Lead / Full Stack Developer**  
 2023-01 → 2023-12 · Independent contractor (PJ)
